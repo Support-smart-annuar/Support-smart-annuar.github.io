@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: jekyll-theme-potato-hacker
+title: Support-smart-annuar.github.io
 author: "<your_name>"
 email: "<your@mail>"
 description: A simple Jekyll theme based on potatoes and hackers
@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: "<github_username>"
 facebook_username: "<facebook_username>"
 twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+linkedin_id: ""
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
