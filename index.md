@@ -3,7 +3,7 @@ layout: default
 title: Potato Hacker
 description: Test page
 ---
-# Lorem ipsum
+# Support-smart-annuar.github.io #
 
 
 # [Makrdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
