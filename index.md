@@ -3,10 +3,11 @@ layout: default
 title: Potato Hacker
 description: Test page
 ---
-# Support-smart-annuar.github.io #
+#Bienvenidos a Support-smart annuar
+##Support-smart-annuar.github.io #
 
 
-## mision de la empresa
+### mision de la empresa
 
 la meta de esta fue formada por tecnicos profesionales empresa es dar soluciones tecnicas a nuestros clientes formada con tecnicos de gran experencia  y son personal con el desean  ayudar a las personas  y siempre con una sonrisa para todos los problemas que se presenten en equipos de computo 
 y siempre explicando ls pasos que se van hacer para que el cleinte no se preocupe 
