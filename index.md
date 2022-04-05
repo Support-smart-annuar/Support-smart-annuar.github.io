@@ -12,13 +12,9 @@ description: Test page
 la meta de esta fue formada por tecnicos profesionales empresa es dar soluciones tecnicas a nuestros clientes formada con tecnicos de gran experencia  y son personal con el desean  ayudar a las personas  y siempre con una sonrisa para todos los problemas que se presenten en equipos de computo 
 y siempre explicando ls pasos que se van hacer para que el cleinte no se preocupe 
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+## Quines somos ##
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+somos los mas capacitados en todos los problemas tecnicos que existan  ofrecemos servicio las 24/7 a todo mexico con el mejor servicio que existe por cualquier suceso que pase con tu equipo de computo cualquier procedimiento es explicado al cliente 
 
 
 1. First ordered list item
