@@ -16,7 +16,7 @@ y siempre explicando ls pasos que se van hacer para que el cleinte no se preocup
 
 somos los mas capacitados en todos los problemas tecnicos que existan  ofrecemos servicio las 24/7 a todo mexico con el mejor servicio que existe por cualquier suceso que pase con tu equipo de computo cualquier procedimiento es explicado al cliente 
 
-### 
+[Servicios](./servicios.md)
 
 
 [I'm an inline-style link](https://www.google.com)
