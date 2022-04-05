@@ -8,8 +8,8 @@ description: Test page
 
 ## mision de la empresa
 
-
-
+la meta de esta fue formada por tecnicos profesionales empresa es dar soluciones tecnicas a nuestros clientes formada con tecnicos de gran experencia  y son personal con el desean  ayudar a las personas  y siempre con una sonrisa para todos los problemas que se presenten en equipos de computo 
+y siempre explicando ls pasos que se van hacer para que el cleinte no se preocupe 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
