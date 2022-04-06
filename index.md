@@ -1,8 +1,3 @@
----
-layout: default
-title: Potato Hacker
-description: Test page
----
 # Bienvenidos a Support-smart annuar #
 ##Support-smart-annuar.github.io #
 
