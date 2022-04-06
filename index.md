@@ -56,7 +56,7 @@ FAQ
 
 - 5¿El ordenador se reinicia automáticamente?En las opciones avanzadas del menú de contexto del sistema, haga clic en “configuración” inicio y recuperación. En Inicio y recuperación, desactive la “reiniciar automáticamente” Error del sistema. Después de desactivar la casilla de verificación, haga clic en “Aceptar”**
 
--6¿La computadora se apaga sola o se reinicia? Solución.
+- 6¿La computadora se apaga sola o se reinicia? Solución.
  Cambio de fuente de poder
  Limpieza de software
  Limpieza de programas de inicio de Windows
