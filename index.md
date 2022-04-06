@@ -17,16 +17,30 @@ y siempre explicando ls pasos que se van hacer para que el cleinte no se preocup
 somos los mas capacitados en todos los problemas tecnicos que existan  ofrecemos servicio las 24/7 a todo mexico con el mejor servicio que existe por cualquier suceso que pase con tu equipo de computo cualquier procedimiento es explicado al cliente 
 
 
+los servicios que ofrecemos son los siguentes 
 
+# damos mantenimeinto preventivo 
 
+## damos mentenimiento correctivo
 
+instalacion de windows office 
 
+eliminacion de virus 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+reparacion de impresoras 
+
+instalacion de hardware nuevo 
+
+cambio de tarjea ram 
+
+solucion de pantalla azul 
+
+reparacion de la tarjeta madre y los pestillos 
+
+solucion de error en el sistema operativo 
+
+reparacion de los discos USB
+
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the
