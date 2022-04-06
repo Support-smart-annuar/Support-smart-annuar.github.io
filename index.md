@@ -65,47 +65,12 @@ FAQ
 - 10¿La computadora no enciende? solucion revisa que los cables esten bien conectados Revisar la corriente y la fuente Revisa las conexiones de la fuente de poder
 
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+tenemos dos formas de servicio que ofrecemos 
 
+# servicio de forma presencial 
+## servicio de forma remota o distancia 
 
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
-
-
-# [Bootstrap Theme Example](https://getbootstrap.com/docs/3.3/examples/theme/)
-
-
-<!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
-  <h1>Theme example</h1>
-  <p>This is a template showcasing the optional theme stylesheet included in Bootstrap. Use it as a starting point to create something more unique by building on or modifying it.</p>
-</div>
-
-
-<h1>Buttons</h1>
-<p>
-  <button type="button" class="btn btn-lg btn-default">Default</button>
+ 
   <button type="button" class="btn btn-lg btn-primary">Primary</button>
   <button type="button" class="btn btn-lg btn-success">Success</button>
   <button type="button" class="btn btn-lg btn-info">Info</button>
