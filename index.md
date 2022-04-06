@@ -75,7 +75,29 @@ tenemos dos formas de servicio que ofrecemos
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=cetys%2032&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed google map without iframe</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
 
 
+ <form action="https://formspree.io/f/xnqwbdlo" method="post">
+Nombre: <input type="text" nombre="name"><br>
  
+ apellido: <input type="text" nombre="name"><br>
+ 
+
+
+<form action="/action_page.php">
+  <label for="phone"Ingrese un número de teléfonor:</label><br><br>
+  <input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required><br><br>
+  <small></small><br><br>
+  <input type="submit" value="Submit">
+
+<form action="/action_page.php">
+  <label for="fecha de servicio ">fecha de servicio :</label>
+  <input type="date" id="fecha de servicio" name="fecha de servicio">
+
+  
+ 
+  E-mail: <input type="text" nombre="email"><br>
+
+  
+  
  
 
 <div class="row">
