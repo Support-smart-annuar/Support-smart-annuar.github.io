@@ -42,25 +42,33 @@ solucion de error en el sistema operativo
 reparacion de los discos USB
 
 
+FAQ
 
+- 1¿El ordenador va muy lento? Solución Limpieza de software virus, spyware, etc.
+ Reparación o cambio de disco duro.
+ Recuperación de los sectores dañados
+ 
+ - 2¿Ruidos extraños en la pc?La otra razón principal por la que se puede provocar este ruido es que el disipador del procesador se haya ensuciado o tenga demasiado polvo. Si esto pasa, puede que los ventiladores que antes eran suficiente para enfriar el procesador ahora ya no lo sean, por lo que la placa base los hace trabajar demasiado
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+- 3¿No se puede actualizar el sistema operativo?En ocasiones, el software antivirus o de seguridad de terceros puede provocar errores al intentar actualizar a la     última versión de Windows 10. Puede desinstalar temporalmente este software, actualizar su PC y, a continuación, volver a instalarlo después de que el dispositivo se   haya actualizado.
 
+- 4¿Internet va muy lento?Comprueba que el cable de red está bien conectado al PC comprueba con otro dispositivo si Internet va lento en otros dispositivos Si sólo te va lento en el PC, prueba a pasar un antivirus para detectar y eliminar amenazas.
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+- 5¿El ordenador se reinicia automáticamente?En las opciones avanzadas del menú de contexto del sistema, haga clic en “configuración” inicio y recuperación. En Inicio y recuperación, desactive la “reiniciar automáticamente” Error del sistema. Después de desactivar la casilla de verificación, haga clic en “Aceptar”**
 
-Quote break.
+-6¿La computadora se apaga sola o se reinicia? Solución.
+ Cambio de fuente de poder
+ Limpieza de software
+ Limpieza de programas de inicio de Windows
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+- 7¿Fallas con la tarjeta gráfica?El primer paso siempre es descargar la revisión más reciente del controlador de la tarjeta e instalarla en la computadora. … Una vez   que se actualice el controlador, también deberá instalar una aplicación para que pueda configurar la tarjeta gráfica.
 
+- 8¿Computadora infectada con virus?solucion instale un antivirus Descargue e instale un analizador de virus Desconéctese de Internet Reiniciar el ordenador en el modo   seguro Elimine todos los archivos temporales Ejecute un análisis antivirus Elimine el virus o póngalo en cuarentena
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+- 9¿Fallo en el disco duro? solucion Formatear el disco duro Ejecutar reparación de disco
+
+- 10¿La computadora no enciende? solucion revisa que los cables esten bien conectados Revisar la corriente y la fuente Revisa las conexiones de la fuente de poder
+
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
