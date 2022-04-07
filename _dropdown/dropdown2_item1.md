@@ -1,8 +1,24 @@
 ---
 layout: page
-title: item1
+title:FAQ
 description: Test page
-dropdown: dropdown2
+dropdown:FAQ
 ---
-# Lorem ipsum
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+# FAQ
+
+1¿El ordenador va muy lento? Solución Limpieza de software virus, spyware, etc.
+Reparación o cambio de disco duro.
+Recuperación de los sectores dañados
+
+2 ¿No se puede actualizar el sistema operativo?En ocasiones, el software antivirus o de seguridad de terceros puede provocar errores al intentar actualizar a la última versión de Windows 10. Puede desinstalar temporalmente este software, actualizar su PC y, a continuación, volver a instalarlo después de que el dispositivo se haya actualizado.
+
+3 ¿La computadora se apaga sola o se reinicia? Solución.
+Cambio de fuente de poder
+Limpieza de software
+Limpieza de programas de inicio de Windows
+
+4 ¿Fallo en el disco duro? solucion Formatear el disco duro Ejecutar reparación de disco
+
+5 Pérdida de datos
+
+¿como eliminar mensajes publicitarios?
