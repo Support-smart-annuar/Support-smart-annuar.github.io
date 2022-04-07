@@ -8,48 +8,11 @@ Nuestra mision es:
 dar servicios de muy buena calidad para nuestros clientes tengan la confianza y seguridad que el trabajo que se realizara a su equuipo sera bajo las normas de calidad autorisadas en mexico
 
 Nuestra vision es:
-mejorar cada dia para ofrecer a nuestro clientes servicios que mejoren sus equipos 
-<div class="row">
-  <div class="col-md-6">
-    <table class="table table-bordered">
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td rowspan="2">1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-        </tr>
-        <tr>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@TwBootstrap</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td colspan="2">Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <table class="table table-condensed">
-      <thead>
-        <tr>
+mejorar cada dia para ofrecer a nuestro clientes servicios que mejoren sus equipos
+
+
+![image](https://user-images.githubusercontent.com/101681073/162187501-d24399b5-b5cb-4aec-b586-86beaafee180.png)
+
           <th>#</th>
           <th>First Name</th>
           <th>Last Name</th>
