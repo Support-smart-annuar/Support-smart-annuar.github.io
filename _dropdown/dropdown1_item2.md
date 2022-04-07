@@ -5,7 +5,7 @@ description: Test page
 dropdown: CONTACTO
 priority: 2
 ---
-# cONTACTO
+# contacto
 <form action="https://formspree.io/f/xnqwbdlo" method="post">
 Nombre: <input type="text" nombre="name"><br>
  
