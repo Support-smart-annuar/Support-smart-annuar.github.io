@@ -7,9 +7,11 @@ priority: 1
 ---
 # servicios 
 
-# Damos mantenimiento preventivo este tipo se usa para que la computadora no tenga una falla en el futuro
+# Damos mantenimiento preventivo son todas aquellas tareas periódicas que se realizan para prevenir fallas o errores en el software como: sistema operativo, antivirus o programas ofimáticos.
 
-## Damos mantenimiento corrrectivo este tipo se usa cuando la computadora ya tiene una falla 
+
+## Damos mantenimiento corrrectivo  informático es una manera de mantenimiento del sistema informático, el cual se realiza después de un fallo o problema surge en un sistema, con el objetivo de restablecer la operativa del sistema y el trabajo continuado de la empresa.
+
 
 Reparacion de puertos USB y remplazo 
 
