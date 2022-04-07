@@ -1,5 +1,5 @@
 ---
 layout: blog-index
-title: UBICACION
+title: 
 description: Test page
 ---
