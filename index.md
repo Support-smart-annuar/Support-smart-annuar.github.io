@@ -1,15 +1,14 @@
 # Bienvenidos a Support-smart annuar #
 ##Support-smart-annuar.github.io #
 
+Nuestra empresa ofrece el  mejor servicio para todo mexico 24/7 contamos con  los mejores tecnicos de todo el pais 
+estos son  los servicios que se le brindamos  a su equipos los cuales iremos realizando paso a paso para satisfaccion de nuestros cleintes 
 
-damos servicio 24/7 con los mejores tecnicos de mexico  y todos los servicios que damos siempre con una explicacion y te dams un servicio de diez 
- y siempre con una sonrisa a todos los clientes  y con una rapidez para entregar sus equipos con todo y garantia  y su computadora  funcionando  con rapidez y entrega inmediatamente su equipo  
- 
- somos los mas capacitados para tu equipo de computo y damos soluciones a cualquier problema de software y hardware
+Nuestra mision es: 
+dar servicios de muy buena calidad para nuestros clientes tengan la confianza y seguridad que el trabajo que se realizara a su equuipo sera bajo las normas de calidad autorisadas en mexico
 
-
- 
-
+Nuestra vision es:
+mejorar cada dia para ofrecer a nuestro clientes servicios que mejoren sus equipos 
 <div class="row">
   <div class="col-md-6">
     <table class="table table-bordered">
