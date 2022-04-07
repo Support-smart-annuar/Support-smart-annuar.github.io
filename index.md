@@ -2,102 +2,12 @@
 ##Support-smart-annuar.github.io #
 
 
-### mision de la empresa
-
-la meta de esta fue formada por tecnicos profesionales empresa es dar soluciones tecnicas a nuestros clientes formada con tecnicos de gran experencia  y son personal con el desean  ayudar a las personas  y siempre con una sonrisa para todos los problemas que se presenten en equipos de computo 
-y siempre explicando ls pasos que se van hacer para que el cleinte no se preocupe 
-
-## Quines somos ##
-
-somos los mas capacitados en todos los problemas tecnicos que existan  ofrecemos servicio las 24/7 a todo mexico con el mejor servicio que existe por cualquier suceso que pase con tu equipo de computo cualquier procedimiento es explicado al cliente 
-
-
-los servicios que ofrecemos son los siguentes 
-
-# damos mantenimeinto preventivo 
-
-## damos mentenimiento correctivo
-
-instalacion de windows office 
-
-eliminacion de virus 
-
-reparacion de impresoras 
-
-instalacion de hardware nuevo 
-
-cambio de tarjea ram 
-
-solucion de pantalla azul 
-
-reparacion de la tarjeta madre y los pestillos 
-
-solucion de error en el sistema operativo 
-
-reparacion de los discos USB
-
-
-FAQ
-
-- 1¿El ordenador va muy lento? Solución Limpieza de software virus, spyware, etc.
- Reparación o cambio de disco duro.
- Recuperación de los sectores dañados
+damos servicio 24/7 con los mejores tecnicos de mexico  y todos los servicios que damos siempre con una explicacion y te dams un servicio de diez 
+ y siempre con una sonrisa a todos los clientes  y con una rapidez para entregar sus equipos con todo y garantia  y su computadora  funcionando  con rapidez y entrega inmediatamente su equipo  
  
- - 2¿Ruidos extraños en la pc?La otra razón principal por la que se puede provocar este ruido es que el disipador del procesador se haya ensuciado o tenga demasiado polvo. Si esto pasa, puede que los ventiladores que antes eran suficiente para enfriar el procesador ahora ya no lo sean, por lo que la placa base los hace trabajar demasiado
-
-- 3¿No se puede actualizar el sistema operativo?En ocasiones, el software antivirus o de seguridad de terceros puede provocar errores al intentar actualizar a la     última versión de Windows 10. Puede desinstalar temporalmente este software, actualizar su PC y, a continuación, volver a instalarlo después de que el dispositivo se   haya actualizado.
-
-- 4¿Internet va muy lento?Comprueba que el cable de red está bien conectado al PC comprueba con otro dispositivo si Internet va lento en otros dispositivos Si sólo te va lento en el PC, prueba a pasar un antivirus para detectar y eliminar amenazas.
-
-- 5¿El ordenador se reinicia automáticamente?En las opciones avanzadas del menú de contexto del sistema, haga clic en “configuración” inicio y recuperación. En Inicio y recuperación, desactive la “reiniciar automáticamente” Error del sistema. Después de desactivar la casilla de verificación, haga clic en “Aceptar”**
-
-- 6¿La computadora se apaga sola o se reinicia? Solución.
- Cambio de fuente de poder
- Limpieza de software
- Limpieza de programas de inicio de Windows
-
-- 7¿Fallas con la tarjeta gráfica?El primer paso siempre es descargar la revisión más reciente del controlador de la tarjeta e instalarla en la computadora. … Una vez   que se actualice el controlador, también deberá instalar una aplicación para que pueda configurar la tarjeta gráfica.
-
-- 8¿Computadora infectada con virus?solucion instale un antivirus Descargue e instale un analizador de virus Desconéctese de Internet Reiniciar el ordenador en el modo   seguro Elimine todos los archivos temporales Ejecute un análisis antivirus Elimine el virus o póngalo en cuarentena
-
-- 9¿Fallo en el disco duro? solucion Formatear el disco duro Ejecutar reparación de disco
-
-- 10¿La computadora no enciende? solucion revisa que los cables esten bien conectados Revisar la corriente y la fuente Revisa las conexiones de la fuente de poder
+ somos los mas capacitados para tu equipo de computo y damos soluciones a cualquier problema de software y hardware
 
 
-tenemos dos formas de servicio que ofrecemos 
-
-# servicio de forma presencial 
-## servicio de forma remota o distancia 
-
-# ubicacion #
-
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=cetys%2032&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed google map without iframe</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
-
-
- <form action="https://formspree.io/f/xnqwbdlo" method="post">
-Nombre: <input type="text" nombre="name"><br>
- 
- apellido: <input type="text" nombre="name"><br>
- 
-
-
-<form action="/action_page.php">
-  <label for="phone"Ingrese un número de teléfonor:</label><br><br>
-  <input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required><br><br>
-  <small></small><br><br>
-  <input type="submit" value="Submit">
-
-<form action="/action_page.php">
-  <label for="fecha de servicio ">fecha de servicio :</label>
-  <input type="date" id="fecha de servicio" name="fecha de servicio">
-
-  
- 
-  E-mail: <input type="text" nombre="email"><br>
-
-  
-  
  
 
 <div class="row">
