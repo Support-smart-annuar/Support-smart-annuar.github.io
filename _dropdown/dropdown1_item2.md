@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CONTACTO
+title: Contacto
 description: Test page
-dropdown: CONTACTO
+dropdown: dropdown2
 priority: 2
 ---
 
