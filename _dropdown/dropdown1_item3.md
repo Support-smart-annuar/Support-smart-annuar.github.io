@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 description: Test page
-dropdown: FAQ
+dropdown: dropdown3
 priority: 3
 ---
 ## FAQ
