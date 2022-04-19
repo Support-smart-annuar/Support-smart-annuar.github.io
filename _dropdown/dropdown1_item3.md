@@ -48,4 +48,17 @@ Ejecutar reparación de disco
 13 -¿No funcionan los puertos USB? Haga clic en Inicio y, a continuación, en Ejecutar Escriba devmgmt
  En el Administrador de dispositivos, haga clic en su equipo para resaltarlo Haga clic en Acción y, a continuación, haga clic en Buscar cambios de hardware.Compruebe el dispositivo USB para ver si funciona. o haga combios de puentes USB
  
- 14 -
+ 14 -¿Windows tarda mucho en iniciar y cerrar?
+
+Optimización de programas de inicio.
+Limpieza de software (virus, spyware, pop ups, etc.)
+Darle un buen mantenimiento
+
+15 - •	El puntero del mouse no funciona? Lo primero que debes hacer es verificar si hay alguna tecla de función dedicada en tu teclado que tenga un icono que parezca un panel táctil con una línea que lo atraviese. Si lo encuentras, presiónalo y probablemente verás que el cursor comienza a moverse de nuevo
+
+16 -•	Al encender manda un mensaje que Windows se cerró inesperadamente y davarias opciones pero se elija la que sea regresa a la misma pantalla con lasmismas opciones?
+
+17 -•	¿No reconoce el disco duro? En el explorador de Windows, haz clic en Este equipo, abre la pestaña de Equipo y pulsa en Administrar Escribe Administración de discos en el cuadro de búsqueda de Windows. Después, selecciona Crear y formatear particiones del disco duro.
+
+18 - •	¿Cierres inesperados de programas? En la ventana de comandos digita sfc/scannow y presiona Enter, este comando ejecutara un programa automático que repara los archivos de sistema, espera a que llegue a 100% el indicador, reinicia el computador y verifica si ya se solucionó el problema.
+
