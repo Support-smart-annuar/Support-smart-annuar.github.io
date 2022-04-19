@@ -30,5 +30,22 @@ Cuando se te pregunte si quieres quitar el software no deseado, haz clic en Quit
 
 7 -¿ El ordenador va muy lento ?  puede tener um malware o un virus  i o la ram esta muy llena  y hay que liberarla 
 
-8 - 
+8 -¿Fallo en el disco duro? solucion 
+Formatear el disco duro
+Ejecutar reparación de disco
 
+9 -¿Falla en la tarjeta de video? Haz clic en Inicio.
+ En el menú de Inicio, haz clic en Ejecutar.
+ En el cuadro Abrir, escribe "dxdiag" (sin comillas) y, a continuación, haz clic en Aceptar.
+ Se abrirá la herramienta de diagnóstico de DirectX.
+ 
+ 10 -¿Los programas se cierran solos?Para ello, vamos a tener que echar mano de una aplicación gratuita que se llama NoClose, una aplicación que como acabamos de decir, permite deshabilitar el icono del aspa de las aplicaciones o ventanas que queramos tener abiertas y que no queremos cerrar por descuido o error
+
+11- ¿Problemas en la placa base? Si el ordenador no enciende Inspecciona los componentes físicos de la placa Si se enciente, verifica que todo está conectado.Escuchas pitidos al arrancar.Haz un Clear CMOS o CLRPWD.Disipador bien puesto y el ventilador conectado Socket en buen estado
+
+12 -Calentamiento excesivo?Rediseñar el flujo de aire de la caja con más y/o mejores ventiladores Cambiar de caja por una que tenga mejor refrigeración Cambiar el disipador del procesador por uno mejor Instalar o comprar un control de ventiladores para hacerlos funcionar a mayor velocidad
+
+13 -¿No funcionan los puertos USB? Haga clic en Inicio y, a continuación, en Ejecutar Escriba devmgmt
+ En el Administrador de dispositivos, haga clic en su equipo para resaltarlo Haga clic en Acción y, a continuación, haga clic en Buscar cambios de hardware.Compruebe el dispositivo USB para ver si funciona. o haga combios de puentes USB
+ 
+ 14 -
