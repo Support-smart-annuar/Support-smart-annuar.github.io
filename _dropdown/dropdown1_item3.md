@@ -62,3 +62,19 @@ Darle un buen mantenimiento
 
 18 - •	¿Cierres inesperados de programas? En la ventana de comandos digita sfc/scannow y presiona Enter, este comando ejecutara un programa automático que repara los archivos de sistema, espera a que llegue a 100% el indicador, reinicia el computador y verifica si ya se solucionó el problema.
 
+19- ¿Ruidos extraños en la pc?La otra razón principal por la que se puede provocar este ruido es que el disipador del procesador se haya ensuciado o tenga demasiado polvo. Si esto pasa, puede que los ventiladores que antes eran suficiente para enfriar el procesador ahora ya no lo sean, por lo que la placa base los hace trabajar demasiado.
+
+20- ¿Internet va muy lento?Comprueba que el cable de red está bien conectado al PC comprueba con otro dispositivo si Internet va lento en otros dispositivos Si sólo te va lento en el PC, prueba a pasar un antivirus para detectar y eliminar amenazas.
+
+21-¿La computadora se apaga sola o se reinicia? Solución.  
+Cambio de fuente de poder   
+Limpieza de software  
+Limpieza de programas de inicio de Windows  
+
+22-¿Computadora infectada con virus?solucion instale un antivirus
+Descargue e instale un analizador de virus
+Desconéctese de Internet
+Reiniciar el ordenador en el modo seguro
+Elimine todos los archivos temporales
+Ejecute un análisis antivirus
+Elimine el virus o póngalo en cuarentena
