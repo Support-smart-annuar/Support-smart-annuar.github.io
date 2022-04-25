@@ -1,6 +1,6 @@
 ---
 layout: page
-title: item1
+title: servicios 
 description: Test page
 dropdown: nuestros servicios
 priority: 1
