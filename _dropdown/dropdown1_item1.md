@@ -7,10 +7,10 @@ priority: 1
 ---
 # servicios 
 
-# Damos mantenimiento preventivo son todas aquellas tareas periódicas que se realizan para prevenir fallas o errores en el software como: sistema operativo, antivirus o programas ofimáticos.
+ Damos mantenimiento preventivo son todas aquellas tareas periódicas que se realizan para prevenir fallas o errores en el software como: sistema operativo, antivirus o programas ofimáticos.
 
 
-## Damos mantenimiento corrrectivo  informático es una manera de mantenimiento del sistema informático, el cual se realiza después de un fallo o problema surge en un sistema, con el objetivo de restablecer la operativa del sistema y el trabajo continuado de la empresa.
+ Damos mantenimiento corrrectivo  informático es una manera de mantenimiento del sistema informático, el cual se realiza después de un fallo o problema surge en un sistema, con el objetivo de restablecer la operativa del sistema y el trabajo continuado de la empresa.
 
 
 Reparacion de puertos USB y remplazo 
