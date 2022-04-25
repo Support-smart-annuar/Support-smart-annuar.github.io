@@ -2,11 +2,11 @@
 layout: page
 title: Contacto
 description: Test page
-dropdown: dropdown2
+dropdown: contacto 
 priority: 2
 ---
 
-# contacto
+
 <form action="https://formspree.io/f/xnqwbdlo" method="post">
 Nombre: <input type="text" nombre="name"><br>
  
