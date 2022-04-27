@@ -5,7 +5,6 @@ description: Test page
 dropdown: FAQ
 priority: 3
 ---
-## FAQ
 
 - 1¿El ordenador va muy lento? Solución Limpieza de software virus, spyware, etc.
 Reparación o cambio de disco duro.
