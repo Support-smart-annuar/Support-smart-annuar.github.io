@@ -5,7 +5,6 @@ description: Test page
 dropdown: nuestros servicios
 priority: 1
 ---
-# servicios 
 
  Damos mantenimiento preventivo son todas aquellas tareas periódicas que se realizan para prevenir fallas o errores en el software como: sistema operativo, antivirus o programas ofimáticos.
 
